@@ -187,7 +187,7 @@ export default function Start({ initialCountries }) {
 
       <main className={styles.container}>
         <h1 className={styles.title}>
-          Powered by <a href="https://nextjs.org">Next.js!</a>
+          Bananas Is Lovingly Powered by <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <div className={styles.heroImage}>
