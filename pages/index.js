@@ -192,7 +192,7 @@ export default function Start({ initialCountries }) {
 
         <div className={styles.heroImage}>
           <Image
-            src="/large-image.jpg"
+            src="./large-image.jpg"
             alt="Large Image"
             width={3048}
             height={2024}
